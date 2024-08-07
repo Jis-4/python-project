@@ -35,15 +35,15 @@ This is a basic voice assistant project that can perform simple tasks based on v
    cd voice-assistant-project
 
 ## Create a virtual environment
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
-```bash
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
+## Create and Configure .env File:
 
-2. **Create and Configure .env File:**
 
 Create a .env file in the root directory.
 
